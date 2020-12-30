@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{4116CA5A-DFB8-9D82-C137-94595A14B88A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Widgets/PathRecorder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FormalGameSystem.cs" Line="236" Column="40" IsPinned="True" />
+      <File FileName="Assets/Scripts/PosDirectingSystem.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/ChessBoard/CorsiBoard.cs" IsPinned="True" />
+      <File FileName="Assets/Scripts/StartSystem.cs" Line="20" Column="26" IsPinned="True" />
+      <File FileName="Assets/Scripts/CorsiSystem.cs" />
+      <File FileName="Assets/Scripts/GuideSystem.cs" />
+      <File FileName="Assets/Scripts/ChessBoard/ChessSystem.cs" />
+      <File FileName="Assets/Scripts/DataTools/GameSettings.cs" />
+      <File FileName="Assets/Scripts/DataTools/DataManger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameSystem.cs" />
+      <File FileName="Assets/Scripts/Widgets/DialogWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Widgets/SketchMap.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataTools/CorsiRecorder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Widgets/FilePathChecker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Widgets/BlockButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Widgets/PathRecorder.cs" Line="30" Column="38" />
+      <File FileName="Assets/Scripts/Widgets/Tiggers.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DivergeSystem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wayfinding-3D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ChessBoard" expanded="True" />
+                <Node name="DataTools" expanded="True" />
+                <Node name="Widgets" expanded="True">
+                  <Node name="PathRecorder.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="StreamingAssets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8084b851-1d49-41c1-8095-9a3083e8faf6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

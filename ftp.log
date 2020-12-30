@@ -1,0 +1,6 @@
+[I 2020-12-18 03:15:10] concurrency model: async
+[I 2020-12-18 03:15:10] masquerade (NAT) address: None
+[I 2020-12-18 03:15:10] passive ports: None
+[I 2020-12-18 03:15:10] >>> starting FTP server on :::2121, pid=719 <<<
+/Users/alisterchen/miniconda3/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

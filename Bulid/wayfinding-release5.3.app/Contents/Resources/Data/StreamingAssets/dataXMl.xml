@@ -1,0 +1,19 @@
+<Object>
+  <Player Player_ID="21">
+    <ID>21</ID>
+    <Age>32</Age>
+    <Sex>1</Sex>
+    <Hand>2</Hand>
+    <Type>1</Type>
+  </Player>
+  <Wayfinding Game_ID="1">
+    <Map>1</Map>
+    <Exploring_Times Count="3">
+      <Times_1>1.796051</Times_1>
+      <Times_2>1.748368</Times_2>
+      <Times_3>2.124003</Times_3>
+    </Exploring_Times>
+    <Path>(30.30,86.70);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00);(35.00,5.00)</Path>
+    <Wayfinding_Time>27.91593</Wayfinding_Time>
+  </Wayfinding>
+</Object>

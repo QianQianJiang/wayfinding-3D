@@ -1,0 +1,116 @@
+<Object>
+  <Player Player_ID="32">
+    <ID>32</ID>
+    <Age>31</Age>
+    <Sex>1</Sex>
+    <Hand>2</Hand>
+    <Type>1</Type>
+  </Player>
+  <Corsi>
+    <Record Record_ID="1-1">
+      <Real_Count>2</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>2</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>3.285497</Cost_Time>
+    </Record>
+    <Record Record_ID="1-2">
+      <Real_Count>2</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>2</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>3.432278</Cost_Time>
+    </Record>
+    <Record Record_ID="2-1">
+      <Real_Count>3</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>3</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>4.465399</Cost_Time>
+    </Record>
+    <Record Record_ID="2-2">
+      <Real_Count>3</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>3</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>3.966294</Cost_Time>
+    </Record>
+    <Record Record_ID="3-1">
+      <Real_Count>4</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>4</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>4.850024</Cost_Time>
+    </Record>
+    <Record Record_ID="3-2">
+      <Real_Count>4</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>4</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>4.213824</Cost_Time>
+    </Record>
+    <Record Record_ID="4-1">
+      <Real_Count>5</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>5</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>4.633255</Cost_Time>
+    </Record>
+    <Record Record_ID="4-2">
+      <Real_Count>5</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>5</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>4.299899</Cost_Time>
+    </Record>
+    <Record Record_ID="5-1">
+      <Real_Count>6</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>6</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>5.382607</Cost_Time>
+    </Record>
+    <Record Record_ID="5-2">
+      <Real_Count>6</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>6</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>6.599064</Cost_Time>
+    </Record>
+    <Record Record_ID="6-1">
+      <Real_Count>7</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>7</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>8.067686</Cost_Time>
+    </Record>
+    <Record Record_ID="6-2">
+      <Real_Count>7</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>7</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>6.081338</Cost_Time>
+    </Record>
+    <Record Record_ID="7-1">
+      <Real_Count>8</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>8</Probe_Count>
+      <Is_Correct>0</Is_Correct>
+      <Cost_Time>6.21652</Cost_Time>
+    </Record>
+    <Record Record_ID="7-2">
+      <Real_Count>8</Real_Count>
+      <Trial>2</Trial>
+      <Probe_Count>8</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>5.06592</Cost_Time>
+    </Record>
+    <Record Record_ID="8-1">
+      <Real_Count>9</Real_Count>
+      <Trial>1</Trial>
+      <Probe_Count>9</Probe_Count>
+      <Is_Correct>1</Is_Correct>
+      <Cost_Time>7.367649</Cost_Time>
+    </Record>
+  </Corsi>
+</Object>

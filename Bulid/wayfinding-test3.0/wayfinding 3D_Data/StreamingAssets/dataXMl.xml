@@ -1,0 +1,24 @@
+<Object>
+  <Player Player_ID="123">
+    <ID>123</ID>
+    <Age>12</Age>
+    <Sex>1</Sex>
+    <Hand>2</Hand>
+    <Type>1</Type>
+  </Player>
+  <Wayfinding Game_ID="1">
+    <Scene>1</Scene>
+    <Exploring_Times Count="3">
+      <Times_1>4.531008</Times_1>
+      <Times_2>4.460547</Times_2>
+      <Times_3>4.727746</Times_3>
+    </Exploring_Times>
+    <Path>(30.50,90.00);(35.00,9.10)</Path>
+    <Wayfinding_Time>3.722648</Wayfinding_Time>
+    <Audio>-1</Audio>
+    <Pos_X>5.826741</Pos_X>
+    <Pos_Y>2.083483</Pos_Y>
+    <Real_X>-8</Real_X>
+    <Real_Y>-13</Real_Y>
+  </Wayfinding>
+</Object>
