@@ -11,7 +11,11 @@ UnityConnectSettings:
   m_ConfigUrl: https://config.uca.cloud.unity3d.com
   m_TestInitMode: 0
   CrashReportingSettings:
+<<<<<<< HEAD
     m_EventUrl: https://perf-events.cloud.unity3d.com
+=======
+    m_EventUrl: https://perf-events.cloud.unity.cn
+>>>>>>> 24cd9a2f151bf2645f344a90c2cc7bf6a3ed4f27
     m_Enabled: 0
     m_LogBufferSize: 10
     m_CaptureEditorExceptions: 1

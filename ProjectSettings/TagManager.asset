@@ -13,12 +13,21 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - PostProcessing
   - Weapon
   - Target
   - Projectile
   - Player
   - PlayerCollisionOnly
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> 24cd9a2f151bf2645f344a90c2cc7bf6a3ed4f27
   - 
   - 
   - 
@@ -41,9 +50,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Player
     uniqueID: 1392326819
     locked: 0
   - name: UI
     uniqueID: 3735100705
     locked: 0
+=======
+>>>>>>> 24cd9a2f151bf2645f344a90c2cc7bf6a3ed4f27
