@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/CorsiScenes.unity
-=======
-- path: Assets/Scenes/SampleScene.unity
->>>>>>> 24cd9a2f151bf2645f344a90c2cc7bf6a3ed4f27
+- path: Assets/Scenes/FormalScenes.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
